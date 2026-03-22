@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 </div>
 
 <h1 align="center"> Savage Tigerslayer's Perfected Flurry of Blades <br> [超絕猛虎殺擊亂斬] </h1>
+
+## ⚡ About me
+  - 💻 Computer science and Engineering student 
+  - ⌨️ Competitive programmer (in progress)
+  - 🇯🇵 I know Japanese (B1 if I pass the N3 this time)
+  - C++ | C | GDscript | Python | Java | Scala | SQL | OpenCV
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajevic-0&show_icons=true&theme=radical" height="250"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajevic-0&theme=radical&langs_count=5" height="250"/>
