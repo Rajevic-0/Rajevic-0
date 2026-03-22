@@ -12,7 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img src="https://github.com/Rajevic-0/Rajevic-0/blob/main/Ogurin.jpg">
+</div>
 
+<h1 align="center"> Savage Tigerslayer's Perfected Flurry of Blades <br> [超絕猛虎殺擊亂斬] </h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajevic-0&show_icons=true&theme=radical" height="250"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajevic-0&theme=radical&langs_count=5" height="250"/>
