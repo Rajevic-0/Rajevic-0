@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 </div>
 
 <h1 align="center"> Savage Tigerslayer's Perfected Flurry of Blades <br> [超絕猛虎殺擊亂斬] </h1>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajevic-0&color=orange"/>
+  <img src="https://img.shields.io/badge/Codeforces-ThisIsThisAndThatIsThat-yellow?style=flat&logo=codeforces" />
+</p>
+</p>
 ## ⚡ About me
   - 💻 Computer science and Engineering student 
   - ⌨️ Competitive programmer (in progress)
