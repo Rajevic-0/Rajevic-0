@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=rajevic-0&color=orange"/>
   <img src="https://img.shields.io/badge/Codeforces-ThisIsThisAndThatIsThat-yellow?style=flat&logo=codeforces" />
 </p>
-</p>
+
 ## ⚡ About me
   - 💻 Computer science and Engineering student 
   - ⌨️ Competitive programmer (in progress)
