@@ -24,11 +24,8 @@ Here are some ideas to get you started:
   - 🇯🇵 I know Japanese (B1 if I pass the N3 this time)
   - C++ | C | GDscript | Python | Java | Scala | SQL | OpenCV
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajevic-0&show_icons=true&theme=radical" height="250"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajevic-0&theme=radical&langs_count=5" height="250"/>
-</p>
-<h2 align="center">My Contribution Graph</h2>
+
+## 📝 Stats and contribution graph
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/MomasRaj/MomasRaj/output/pacman-contribution-graph-dark.svg">
@@ -37,4 +34,9 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph"
     src="https://raw.githubusercontent.com/MomasRaj/MomasRaj/output/pacman-contribution-graph.svg">
 </picture>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajevic-0&show_icons=true&theme=radical" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajevic-0&theme=radical&langs_count=5" height="250"/>
+</p>
+
 
