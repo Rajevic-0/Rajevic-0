@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 </p>
 
 ## ⚡ About me
-  - 💻 Computer science and Engineering student 
-  - ⌨️ Competitive programmer (in progress)
-  - 🇯🇵 I know Japanese (B1 if I pass the N3 this time)
+  - 💻 Computer science and Engineering student @ Universidad de chile
+  - ⌨️ Competitive programmer
+  - Languages: 🇪🇸(Native) 🇬🇧(Fluent) 🇯🇵(B1) 🇩🇪(A2)
   - C++ | C | GDscript | Python | Java | Scala | SQL | OpenCV
 ---
 
