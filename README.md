@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://github.com/Rajevic-0/Rajevic-0/blob/main/ogurin2.jpg">
+  <img src="https://github.com/Rajevic-0/Rajevic-0/blob/main/Sudo-Syu.jpg">
 </div>
 
-<h2 align="center"> Do you like yourself? </h2>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajevic-0&color=orange"/>
   <img src="https://img.shields.io/badge/Codeforces-ThisIsThisAndThatIsThat-yellow?style=flat&logo=codeforces" />
