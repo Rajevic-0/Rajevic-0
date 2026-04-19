@@ -12,6 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## ⚡ About me
+  - 💻 Computer science and Engineering student @ Universidad de chile
+  - ⌨️ Competitive programmer
+  - Languages: 🇪🇸(Native) 🇬🇧(Fluent) 🇯🇵(B1) 🇩🇪(A2)
+  - C++ | C | GDscript | Python | Java | Scala | SQL | OpenCV
+
+
 <div align="center">
   <img src="https://github.com/Rajevic-0/Rajevic-0/blob/main/Sudo-Syu.jpg">
 </div>
@@ -21,12 +29,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Codeforces-ThisIsThisAndThatIsThat-yellow?style=flat&logo=codeforces" />
 </p>
 
-## ⚡ About me
-  - 💻 Computer science and Engineering student @ Universidad de chile
-  - ⌨️ Competitive programmer
-  - Languages: 🇪🇸(Native) 🇬🇧(Fluent) 🇯🇵(B1) 🇩🇪(A2)
-  - C++ | C | GDscript | Python | Java | Scala | SQL | OpenCV
----
+
 
 ## 📝 Stats and contribution graph
 <picture>
