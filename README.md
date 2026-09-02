@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## ⚡ About me
   - 💻 Computer science and Engineering student @ Universidad de chile
   - ⌨️ Competitive programmer
-  - Languages: 🇪🇸(Native) 🇬🇧(Fluent) 🇯🇵(B1) 🇩🇪(A2)
+  - Languages: 🇪🇸(Native) 🇬🇧(Fluent) 🇯🇵(N3/B1) 🇩🇪(A2)
   - C++ | C | GDscript | Python | Java | Scala | SQL | OpenCV
 
 
